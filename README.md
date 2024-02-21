@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dontryme</h1>
+<h1 align="center">Hi 👋, I'm NebulaScripter</h1>
 <h3 align="center">A passionate software engineering from Viet Nam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sewnguyenp2206&label=Profile%20views&color=0e75b6&style=flat" alt="sewnguyenp2206" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ArtHub**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Automation scripting**
 
 - 💬 Ask me about **Linux**
 
