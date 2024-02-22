@@ -48,7 +48,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <h3 align="left">Operation systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.fPmD6pQQLwjEZMs1TL778AHaFH?w=860&h=594&rs=1&pid=ImgDetMain" alt="Bash Shell" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" alt="Bash Shell" width="40" height="40"/> </a>
 
 
 
