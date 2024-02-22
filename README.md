@@ -50,8 +50,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" alt="Bash Shell" width="40" height="40"/> </a>
 <h3 align="left">Sec tools:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/7c6AC0dfQaE/hqdefault.jpg" alt="linux" width="40" height="40"/> </a>
 <h3 align="left">Operation systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--krJMFiJz--/t_Preview/b_rgb:191919,c_limit,f_auto,h_630,q_90,w_630/v1506698819/production/designs/1938379_1.jpg" alt="linux" width="40" height="40"/> </a>
 
 
 
