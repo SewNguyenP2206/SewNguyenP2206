@@ -57,6 +57,13 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--krJMFiJz--/t_Preview/b_rgb:191919,c_limit,f_auto,h_630,q_90,w_630/v1506698819/production/designs/1938379_1.jpg" alt="linux" width="40" height="40"/> </a>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sewnguyenp2206&show_icons=true&locale=en&layout=compact" alt="sewnguyenp2206" /></p>
