@@ -47,8 +47,9 @@
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" alt="Bash Shell" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" alt="" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Bash Shell" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven.png" alt="Maven" width="40" height="40"/> </a>
 <h3 align="left">Sec tools:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/7c6AC0dfQaE/hqdefault.jpg" alt="linux" width="40" height="40"/> </a>
