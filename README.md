@@ -48,7 +48,7 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" alt="" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Bash Shell" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Bash Shell" width="60" height="60"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven.png" alt="Maven" width="40" height="40"/> </a>
 <h3 align="left">Sec tools:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="linux" width="40" height="40"/> </a>
@@ -56,7 +56,7 @@
 <h3 align="left">Operation systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--krJMFiJz--/t_Preview/b_rgb:191919,c_limit,f_auto,h_630,q_90,w_630/v1506698819/production/designs/1938379_1.jpg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
