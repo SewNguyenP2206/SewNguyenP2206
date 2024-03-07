@@ -51,11 +51,11 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Bash Shell" width="60" height="60"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven.png" alt="Maven" width="40" height="40"/> </a>
 <h3 align="left">Sec tools:</h3>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/7c6AC0dfQaE/hqdefault.jpg" alt="linux" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36" alt="Burpsuite" /></a>
 <h3 align="left">Operation systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--krJMFiJz--/t_Preview/b_rgb:191919,c_limit,f_auto,h_630,q_90,w_630/v1506698819/production/designs/1938379_1.jpg" alt="linux" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36" alt="dirbuster" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
 
 <div align="center">
