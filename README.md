@@ -33,7 +33,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://www.bing.com/ck/a?!&&p=1f03c9bd9e52b0d9JmltdHM9MTcxMDYzMzYwMCZpZ3VpZD0xZGU0ODdlYi0yNGJlLTY4MDItMDEwZC05M2Q5MjVhYzY5MWMmaW5zaWQ9NTIxMg&ptn=3&ver=2&hsh=3&fclid=1de487eb-24be-6802-010d-93d925ac691c&psq=rabbitmq&u=a1aHR0cHM6Ly93d3cucmFiYml0bXEuY29tLw&ntb=1" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png" alt="rabbitmq" width="40" height="40"/> </a>
 <h3 align="left">Languages:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
