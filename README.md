@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewnguyenp2206" alt="sewnguyenp2206" /></a> </p>
 
-- 🔭 I’m currently working on **NTT**
+- 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Japanese**
 
 - 💬 Ask me about **Linux**
 
