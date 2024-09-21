@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NTT**
 
-- 🌱 I’m currently learning **Automation scripting**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Linux**
 
