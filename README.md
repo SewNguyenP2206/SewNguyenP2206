@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **Japanese**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Linux**
 
