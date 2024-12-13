@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Digital Marketing**
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **nguyphi974@gmail.com**
+- 📫 How to reach me **sewnguyenp2206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
