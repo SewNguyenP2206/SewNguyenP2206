@@ -51,6 +51,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
 <br/><br/>
 <h3 align="left">CERTS:</h3>
-<img src="https://images.credly.com/size/340x340/images/e5b531c2-5cdc-4924-96ff-a3932e05eaee/badge.png" width="100"/>
+[<img src="https://images.credly.com/size/340x340/images/e5b531c2-5cdc-4924-96ff-a3932e05eaee/badge.png" width="100"/>](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)
 
 
