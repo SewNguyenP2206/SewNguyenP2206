@@ -50,4 +50,6 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36" alt="dirbuster" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
 <br/><br/>
+<h3 align="left">CERTS:</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5b531c2-5cdc-4924-96ff-a3932e05eaee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
