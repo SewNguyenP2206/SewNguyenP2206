@@ -52,5 +52,8 @@
 <br/><br/>
 <h3 align="left">CERTS:</h3>
 <img src="https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="100"/>
+<img src="https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="100"/>
+
+
 
 
