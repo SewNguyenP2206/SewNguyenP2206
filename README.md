@@ -51,7 +51,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
 <br/><br/>
 <h3 align="left">CERTS:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c99e3b1-577b-4ad7-94ac-bbd81a33b497" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/>
 <img src="https://images.credly.com/size/110x110/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="100"/>
 
 
