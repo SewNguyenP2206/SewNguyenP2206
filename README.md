@@ -1,56 +1,197 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Sew!👋;" />
-</h1>
-<h3 align="center">Calm down, everything is on the way.</h3>
+<h1 align="center">Hi, I'm Sew 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sewnguyenp2206&label=Profile%20views&color=0e75b6&style=flat" alt="sewnguyenp2206" /> </p>
+<h3 align="center">
+  DevOps Engineer | Cloud & Kubernetes
+</h3>
 
-
-- 🔭 I’m currently working on **Learning**
-
-- 🌱 I’m currently learning **Japanese**
-
-- 💬 Ask me about **Linux**
-
-- 📫 How to reach me **sewnguyenp2206@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/phugnott/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/phugnott/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/sewnguyenp2206">
+    <img src="https://komarev.com/ghpvc/?username=sewnguyenp2206&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Dev Tools:</h3>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<h3 align="left">Languages:</h3>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<h3 align="left">Automation tools:</h3>
-<a href="[https://www.docker](https://dockerlabs.collabnix.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/collabnix/dockerlabs/master/intermediate/swarm/Dockerswarm.png" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- </a>           
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.DewU0Unmv8Zjof0EUC-RkwAAAA?w=176&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="nginx" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.X8RxuRh_-ANodI65p9Xq2AAAAA?w=180&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Bash Shell" width="60" height="60"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" width="40" height="40"/> </a>
-<h3 align="left">Operation systems:</h3>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36" alt="dirbuster" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/3cf74f71-Canonical%20Dark.svg" alt="linux" width="60" height="60"/> </a>
-<br/><br/>
-<h3 align="left">CERTS:</h3>
-<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/>
-<img src="https://images.credly.com/size/110x110/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="100"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=50&duration=3500&pause=1000&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Linux;Learning+Cloud+%26+SRE;Calm+down%2C+everything+is+on+the+way." />
+</p>
 
+---
 
+## About Me
 
+I'm a Software Engineering graduate focused on DevOps, Cloud Infrastructure, and Kubernetes.
 
+I enjoy working with infrastructure, automation, CI/CD, containers, and cloud platforms. I spend a lot of time learning how systems work under the hood, especially Linux and Kubernetes.
+
+Currently focusing on:
+
+* AWS Cloud Infrastructure
+* Kubernetes and container orchestration
+* CI/CD and GitOps
+* Infrastructure as Code
+* Linux and system administration
+* Monitoring and observability
+* SRE and Platform Engineering
+* Japanese for my long-term career goal
+
+My long-term direction is:
+
+`DevOps → SRE / Platform Engineering → Cloud Architect`
+
+---
+
+## Tech Stack
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
+</p>
+
+### Containers & Kubernetes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+</p>
+
+### CI/CD & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,ansible" />
+</p>
+
+### Linux & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,cs,dotnet" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,nginx,grafana,prometheus" />
+</p>
+
+---
+
+## What I'm Working On
+
+```text
+☁️ AWS
+├── VPC
+├── EC2
+├── EKS
+├── RDS / Aurora
+├── API Gateway
+├── ALB / ELB
+├── CloudWatch
+├── WAF
+└── IAM
+
+☸️ Kubernetes
+├── Workloads
+├── Networking
+├── Ingress
+├── RBAC
+├── NetworkPolicy
+├── Storage
+├── Helm
+├── Troubleshooting
+└── Observability
+
+⚙️ DevOps
+├── CI/CD
+├── GitHub Actions
+├── GitLab CI
+├── Jenkins
+├── Terraform
+├── Ansible
+└── GitOps
+```
+
+---
+
+## Certifications
+
+<p>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certification"/>
+</p>
+
+AWS Certified Solutions Architect
+
+---
+
+## Currently Learning
+
+```text
+Kubernetes
+████████████████░░░░ 80%
+
+AWS
+████████████████░░░░ 80%
+
+Terraform
+██████████████░░░░░░ 70%
+
+Linux
+████████████████░░░░ 80%
+
+SRE
+██████████░░░░░░░░░░ 50%
+
+Japanese
+████████░░░░░░░░░░░░ 40%
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sewnguyenp2206&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewnguyenp2206&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewnguyenp2206&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Featured Projects
+
+### Enterprise Infrastructure Lab
+
+A local Kubernetes environment for practicing real-world DevOps workflows.
+
+`Kubernetes` `Docker` `MetalLB` `Ingress-NGINX` `ArgoCD` `Prometheus` `Grafana` `Loki`
+
+### Cloud Infrastructure
+
+AWS infrastructure experiments and production-oriented DevOps work.
+
+`AWS` `Terraform` `EKS` `RDS` `API Gateway` `ALB` `WAF` `CloudWatch`
+
+### CI/CD & Automation
+
+Hands-on work with CI/CD pipelines, runners, container builds, deployments, and GitOps workflows.
+
+`GitHub Actions` `GitLab CI` `Jenkins` `Docker` `Helm` `ArgoCD`
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="mailto:sewnguyenp2206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sewnguyenp2206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Calm down, everything is on the way.</i>
+</p>
