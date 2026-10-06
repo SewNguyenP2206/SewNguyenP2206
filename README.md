@@ -44,7 +44,7 @@ My long-term direction is:
 ### Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform" />
 </p>
 
 ### Containers & Kubernetes
@@ -53,10 +53,10 @@ My long-term direction is:
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 </p>
 
-### CI/CD & DevOps
+### CI/CD & GitOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,ansible" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,argocd" />
 </p>
 
 ### Linux & Programming
@@ -65,7 +65,7 @@ My long-term direction is:
   <img src="https://skillicons.dev/icons?i=linux,bash,python,java,cs,dotnet" />
 </p>
 
-### Databases & Tools
+### Databases & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,nginx,grafana,prometheus" />
@@ -105,7 +105,8 @@ My long-term direction is:
 ├── Jenkins
 ├── Terraform
 ├── Ansible
-└── GitOps
+├── Helm
+└── ArgoCD
 ```
 
 ---
