@@ -62,7 +62,7 @@ My long-term direction is:
 ### Linux & Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,java,cs,dotnet" />
 </p>
 
 ### Databases & Observability
