@@ -73,44 +73,6 @@ My long-term direction is:
 
 ---
 
-## What I'm Working On
-
-```text
-☁️ AWS
-├── VPC
-├── EC2
-├── EKS
-├── RDS / Aurora
-├── API Gateway
-├── ALB / ELB
-├── CloudWatch
-├── WAF
-└── IAM
-
-☸️ Kubernetes
-├── Workloads
-├── Networking
-├── Ingress
-├── RBAC
-├── NetworkPolicy
-├── Storage
-├── Helm
-├── Troubleshooting
-└── Observability
-
-⚙️ DevOps
-├── CI/CD
-├── GitHub Actions
-├── GitLab CI
-├── Jenkins
-├── Terraform
-├── Ansible
-├── Helm
-└── ArgoCD
-```
-
----
-
 ## Certifications
 
 <p>
@@ -118,30 +80,6 @@ My long-term direction is:
 </p>
 
 AWS Certified Solutions Architect
-
----
-
-## Currently Learning
-
-```text
-Kubernetes
-████████████████░░░░ 80%
-
-AWS
-████████████████░░░░ 80%
-
-Terraform
-██████████████░░░░░░ 70%
-
-Linux
-████████████████░░░░ 80%
-
-SRE
-██████████░░░░░░░░░░ 50%
-
-Japanese
-████████░░░░░░░░░░░░ 40%
-```
 
 ---
 
@@ -158,27 +96,6 @@ Japanese
 
 ---
 
-## Featured Projects
-
-### Enterprise Infrastructure Lab
-
-A local Kubernetes environment for practicing real-world DevOps workflows.
-
-`Kubernetes` `Docker` `MetalLB` `Ingress-NGINX` `ArgoCD` `Prometheus` `Grafana` `Loki`
-
-### Cloud Infrastructure
-
-AWS infrastructure experiments and production-oriented DevOps work.
-
-`AWS` `Terraform` `EKS` `RDS` `API Gateway` `ALB` `WAF` `CloudWatch`
-
-### CI/CD & Automation
-
-Hands-on work with CI/CD pipelines, runners, container builds, deployments, and GitOps workflows.
-
-`GitHub Actions` `GitLab CI` `Jenkins` `Docker` `Helm` `ArgoCD`
-
----
 
 ## Connect With Me
 
